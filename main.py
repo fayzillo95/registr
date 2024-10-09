@@ -5,3 +5,5 @@ n = input("ism : ")
 m = input("Familiya : ")
 
 open_path(n,m)
+
+# Assalomu alaykum
