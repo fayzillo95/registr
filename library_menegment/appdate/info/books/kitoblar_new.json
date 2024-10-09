@@ -1,0 +1,171 @@
+{
+    "book_1": {
+        "Nomi": "O'tkan kunlar",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Abdulla",
+            "Familiya": "Qodiriy"
+        }
+    },
+    "book_2": {
+        "Nomi": "Qutluq qimor",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "G'afur",
+            "Familiya": "G'ulom"
+        }
+    },
+    "book_3": {
+        "Nomi": "Alisher Navoiy",
+        "janiri": "Biografiya",
+        "muallif": {
+            "Ismi": "Alisher",
+            "Familiya": "Navoiy"
+        }
+    },
+    "book_4": {
+        "Nomi": "Jannat yo'llari",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Said",
+            "Familiya": "Ahmed"
+        }
+    },
+    "book_5": {
+        "Nomi": "Ufq",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Oydin",
+            "Familiya": "Khayrullayev"
+        }
+    },
+    "book_6": {
+        "Nomi": "Mening asarlarim",
+        "janiri": "Eslatmalar",
+        "muallif": {
+            "Ismi": "Chulpan",
+            "Familiya": "Chulponov"
+        }
+    },
+    "book_7": {
+        "Nomi": "Yodgor",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Zakir",
+            "Familiya": "Saidov"
+        }
+    },
+    "book_8": {
+        "Nomi": "Qizil qalam",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Akrom",
+            "Familiya": "Mirza"
+        }
+    },
+    "book_9": {
+        "Nomi": "Sog'inch",
+        "janiri": "She'rlar",
+        "muallif": {
+            "Ismi": "Erkin",
+            "Familiya": "Vohidov"
+        }
+    },
+    "book_10": {
+        "Nomi": "Yoshlik",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Shukrullo",
+            "Familiya": "Mirzayev"
+        }
+    },
+    "book_11": {
+        "Nomi": "Sevgi va jahl",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Hamid",
+            "Familiya": "Ismoilov"
+        }
+    },
+    "book_12": {
+        "Nomi": "Sarob",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Jamil",
+            "Familiya": "Siddiqov"
+        }
+    },
+    "book_13": {
+        "Nomi": "Birinchi muhabbat",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Zafar",
+            "Familiya": "Qodirov"
+        }
+    },
+    "book_14": {
+        "Nomi": "Yurt",
+        "janiri": "Dramaturgiya",
+        "muallif": {
+            "Ismi": "Furqat",
+            "Familiya": "Haqqulov"
+        }
+    },
+    "book_15": {
+        "Nomi": "Inson va uning taqdiri",
+        "janiri": "Falsafa",
+        "muallif": {
+            "Ismi": "Abdurauf",
+            "Familiya": "Fitrat"
+        }
+    },
+    "book_16": {
+        "Nomi": "Ulug'bek",
+        "janiri": "Tarix",
+        "muallif": {
+            "Ismi": "Sodiq",
+            "Familiya": "Ibrohimov"
+        }
+    },
+    "book_17": {
+        "Nomi": "Bahor",
+        "janiri": "Poema",
+        "muallif": {
+            "Ismi": "Hamid",
+            "Familiya": "Alimov"
+        }
+    },
+    "book_18": {
+        "Nomi": "Ko'klam",
+        "janiri": "She'rlar",
+        "muallif": {
+            "Ismi": "Rauf",
+            "Familiya": "Tursunov"
+        }
+    },
+    "book_19": {
+        "Nomi": "Oqshom",
+        "janiri": "Roman",
+        "muallif": {
+            "Ismi": "Abdulla",
+            "Familiya": "Aripov"
+        }
+    },
+    "book_20": {
+        "Nomi": "Yurak",
+        "janiri": "She'rlar",
+        "muallif": {
+            "Ismi": "Ziyodullo",
+            "Familiya": "To'xtaboev"
+        }
+    },
+    "book_21": {
+        "Nomi": "Halqa",
+        "janiri": "Tarixiy",
+        "muallif": {
+            "Ismi": "Akrom",
+            "Familiya": "Malik",
+            "Narxi": 175000
+        }
+    }
+}

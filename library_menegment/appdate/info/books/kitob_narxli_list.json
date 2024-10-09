@@ -1,0 +1,182 @@
+{
+   "book_1": {
+      "Nomi": "O'tkan kunlar",
+      "janiri": "Roman",
+      "Narxi": 175000,
+      "muallif": {
+         "Ismi": "Abdulla",
+         "Familiya": "Qodiriy"
+      }
+   },
+   "book_2": {
+      "Nomi": "Qutluq qimor",
+      "janiri": "Roman",
+      "Narxi": 12500,
+      "muallif": {
+         "Ismi": "G'afur",
+         "Familiya": "G'ulom"
+      }
+   },
+   "book_3": {
+      "Nomi": "Alisher Navoiy",
+      "janiri": "Biografiya",
+      "Narxi": 145000,
+      "muallif": {
+         "Ismi": "Alisher",
+         "Familiya": "Navoiy"
+      }
+   },
+   "book_4": {
+      "Nomi": "Jannat yo'llari",
+      "janiri": "Roman",
+      "Narxi": 125000,
+      "muallif": {
+         "Ismi": "Said",
+         "Familiya": "Ahmed"
+      }
+   },
+   "book_5": {
+      "Nomi": "Ufq",
+      "janiri": "Roman",
+      "Narxi": 115000,
+      "muallif": {
+         "Ismi": "Oydin",
+         "Familiya": "Khayrullayev"
+      }
+   },
+   "book_6": {
+      "Nomi": "Mening asarlarim",
+      "janiri": "Eslatmalar",
+      "Narxi": 75000,
+      "muallif": {
+         "Ismi": "Chulpan",
+         "Familiya": "Chulponov"
+      }
+   },
+   "book_7": {
+      "Nomi": "Yodgor",
+      "janiri": "Roman",
+      "Narxi": 85000,
+      "muallif": {
+         "Ismi": "Zakir",
+         "Familiya": "Saidov"
+      }
+   },
+   "book_8": {
+      "Nomi": "Qizil qalam",
+      "janiri": "Roman",
+      "Narxi": 65000,
+      "muallif": {
+         "Ismi": "Akrom",
+         "Familiya": "Mirza"
+      }
+   },
+   "book_9": {
+      "Nomi": "Sog'inch",
+      "janiri": "She'rlar",
+      "Narxi": 50000,
+      "muallif": {
+         "Ismi": "Erkin",
+         "Familiya": "Vohidov"
+      }
+   },
+   "book_10": {
+      "Nomi": "Yoshlik",
+      "janiri": "Roman",
+      "Narxi": 87000,
+      "muallif": {
+         "Ismi": "Shukrullo",
+         "Familiya": "Mirzayev"
+      }
+   },
+   "book_11": {
+      "Nomi": "Sevgi va jahl",
+      "janiri": "Roman",
+      "Narxi": 65000,
+      "muallif": {
+         "Ismi": "Hamid",
+         "Familiya": "Ismoilov"
+      }
+   },
+   "book_12": {
+      "Nomi": "Sarob",
+      "janiri": "Roman",
+      "Narxi": 47000,
+      "muallif": {
+         "Ismi": "Jamil",
+         "Familiya": "Siddiqov"
+      }
+   },
+   "book_13": {
+      "Nomi": "Birinchi muhabbat",
+      "janiri": "Roman",
+      "Narxi": 54000,
+      "muallif": {
+         "Ismi": "Zafar",
+         "Familiya": "Qodirov"
+      }
+   },
+   "book_14": {
+      "Nomi": "Yurt",
+      "janiri": "Dramaturgiya",
+      "Narxi": 38000,
+      "muallif": {
+         "Ismi": "Furqat",
+         "Familiya": "Haqqulov"
+      }
+   },
+   "book_15": {
+      "Nomi": "Inson va uning taqdiri",
+      "janiri": "Falsafa",
+      "Narxi": 47000,
+      "muallif": {
+         "Ismi": "Abdurauf",
+         "Familiya": "Fitrat"
+      }
+   },
+   "book_16": {
+      "Nomi": "Ulug'bek",
+      "janiri": "Tarix",
+      "Narxi": 72000,
+      "muallif": {
+         "Ismi": "Sodiq",
+         "Familiya": "Ibrohimov"
+      }
+   },
+   "book_17": {
+      "Nomi": "Bahor",
+      "janiri": "Poema",
+      "Narxi": 45000,
+      "muallif": {
+         "Ismi": "Hamid",
+         "Familiya": "Alimov"
+      }
+   },
+   "book_18": {
+      "Nomi": "Ko'klam",
+      "janiri": "She'rlar",
+      "Narxi": 53000,
+      "muallif": {
+         "Ismi": "Rauf",
+         "Familiya": "Tursunov"
+      }
+   },
+   "book_19": {
+      "Nomi": "Oqshom",
+      "janiri": "Roman",
+      "Narxi": 68000,
+      "muallif": {
+         "Ismi": "Abdulla",
+         "Familiya": "Aripov"
+      }
+   },
+   "book_20": {
+      "Nomi": "Yurak",
+      "janiri": "She'rlar",
+      "Narxi": 65000,
+      "muallif": {
+         "Ismi": "Ziyodullo",
+         "Familiya": "To'xtaboev"
+      }
+   }
+}
